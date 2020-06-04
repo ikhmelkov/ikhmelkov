@@ -1,2 +1,2 @@
-# ikhmelkov_logo
+# ikhmelkov
 logo
