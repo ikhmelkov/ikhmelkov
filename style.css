@@ -12,9 +12,9 @@ body {
 }
 
 .container {
-  max-width: 928px;
+  max-width: 1000px;
   margin: 0 auto;
-  padding: 0 16px;
+  padding: 0 25px;
 }
 
 .page-header {
@@ -131,7 +131,7 @@ body {
 .level div {
   margin: 1px;
   height: 12px;
-  background-color: #288be6;
+  background-color: #7FFF00;
   border-radius: 6px;
 }
 
